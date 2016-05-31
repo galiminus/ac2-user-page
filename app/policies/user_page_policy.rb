@@ -1,0 +1,2 @@
+class UserPagePolicy < PagePolicy
+end
